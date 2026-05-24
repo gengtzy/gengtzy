@@ -45,7 +45,6 @@ I'm an Informatics Engineering student at Politeknik Negeri Jember and a passion
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?user=gengtzy&show_icons=true&theme=radium&hide_border=true" alt="Ageng's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gengtzy&theme=radium&hide_border=true" alt="Ageng's GitHub Streak" />
 </p>
 
