@@ -24,7 +24,7 @@ I'm an Informatics Engineering student at **Politeknik Negeri Jember** and a pas
 ## 🛠️ Tech Stack & Tools
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,alpinejs&perline=7" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend" />
 
 **Backend**<br/>
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&perline=4" alt="Backend" />
