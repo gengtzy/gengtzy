@@ -4,7 +4,10 @@
 
 **Full Stack Web Developer** · Informatics Engineering Student
 
-<img src="./terminal.svg" alt="Coding animation" width="660" />
+🌐 [**agengpuji-personal-website.vercel.app**](https://agengpuji-personal-website.vercel.app/)
+
+<img src="./terminal.svg" height="270" alt="Coding animation" />
+<img src="./face.svg" height="270" alt="Sketch animation" />
 
 </div>
 
@@ -15,7 +18,7 @@
 I'm an Informatics Engineering student at **Politeknik Negeri Jember** and a passionate **Full Stack Web Developer**. I specialize in building scalable, efficient web applications, and I'm always committed to clean code and modern architecture.
 
 - 🎓 Studying Informatics Engineering at **Politeknik Negeri Jember**
-- 💻 Deepening my expertise in the **TALL Stack** (Tailwind, Alpine.js, Laravel, Livewire) and **MERN Stack** (MongoDB, Express, React, Node.js)
+- 💻 Deepening my expertise in **Laravel** and the **MERN Stack** (MongoDB, Express, React, Node.js)
 - 🤖 Building faster by working alongside **AI agents**
 - 🌱 Always learning, always shipping
 
@@ -24,10 +27,10 @@ I'm an Informatics Engineering student at **Politeknik Negeri Jember** and a pas
 ## 🛠️ Tech Stack & Tools
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&perline=6" alt="Frontend" />
 
 **Backend**<br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&perline=4" alt="Backend" />
 
 **Database**<br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase&perline=3" alt="Database" />
@@ -51,6 +54,9 @@ I'm an Informatics Engineering student at **Politeknik Negeri Jember** and a pas
 
 ## 🤝 Let's Connect
 
+<a href="https://agengpuji-personal-website.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 <a href="https://www.linkedin.com/in/ageng-puji-pangestu-1850a3235/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
