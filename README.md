@@ -27,7 +27,7 @@ I'm an Informatics Engineering student at **Politeknik Negeri Jember** and a pas
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend" />
 
 **Backend**<br/>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&perline=4" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs" alt="Backend" />
 
 **Database**<br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase&perline=3" alt="Database" />
