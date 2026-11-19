@@ -28,22 +28,18 @@ I'm an Informatics Engineering student at **Politeknik Negeri Jember** and a pas
 
 **Backend**<br/>
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&perline=4" alt="Backend" />
-<img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
 
 **Database**<br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase&perline=3" alt="Database" />
-<img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge" alt="Laragon" />
 
 **DevOps & API Testing**<br/>
 <img src="https://skillicons.dev/icons?i=docker,postman&perline=2" alt="DevOps" />
 
 **IDE & Editor**<br/>
 <img src="https://skillicons.dev/icons?i=vscode&perline=1" alt="VS Code" />
-<img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
 
 **Version Control**<br/>
 <img src="https://skillicons.dev/icons?i=git,github&perline=2" alt="Git & GitHub" />
-<img src="https://img.shields.io/badge/GitHub%20Desktop-6e5494?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop" />
 
 **AI Agents**<br/>
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
